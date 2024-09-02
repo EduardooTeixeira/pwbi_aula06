@@ -1,0 +1,11 @@
+ol.romano{
+    list-style-type: upper-roman;
+}
+
+ol.quadrado {
+    list-style: square;
+}
+
+h1{
+    color:darkmagenta;
+}
